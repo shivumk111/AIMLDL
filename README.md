@@ -1,2 +1,2 @@
 # msk
-MSK Repository
+OpenCV Repository
